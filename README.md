@@ -9,4 +9,5 @@ Activity3 -> Activity2: 由左至右
 Activity2 -> Activity1: 渐隐渐显
 
 预览
+
 <img width="300" src="http://qiniu.djzhao.cn/gif/activity_animation.gif">
